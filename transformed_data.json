@@ -1,0 +1,11 @@
+{
+	"fileLocations": [
+		{
+			"URIPrefixes": [“s3://mini-project-ropavu/processed/transformed_data/”]
+		}
+	],
+	“globalUploadSettings": {
+	"format": "CSV”,
+	"delimiter": “,”
+	}
+}
